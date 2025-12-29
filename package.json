@@ -1,0 +1,23 @@
+{
+  "name": "apple-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i input.css -o style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.clp.kr/anbschool/4th/all-nighter/phe-sophy/apple-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.18"
+  }
+}
